@@ -39,5 +39,5 @@ int * find_sequences(int *arr, int len){
 	int i;
 	int *res = (int *)malloc(6 * sizeof(int));
 
-	return NULL;
+	return res;
 }
